@@ -192,6 +192,8 @@ status   -- Show the service status
 stop     -- Stop the service
 ```
 
+[Redit Post](https://www.reddit.com/r/archlinux/comments/udoura/fan_speed_control_acer_nitro_51545/)
+
 If you want to write a program that controls the NBFC service, see [protocol](/PROTOCOL.md).
 
 See also the documentation about the [nbfc configuration](doc/nbfc_service.json.5.md).
